@@ -1,0 +1,13 @@
+java -cp /tmp/q6qPN9MgEc/WordCount
+Enter text or provide a file path:
+hi my name is nandini
+Total words: 4
+Unique words: 4
+
+Word frequencies:
+hi: 1
+name: 1
+nandini: 1
+my: 1
+
+=== Code Execution Successful ===
