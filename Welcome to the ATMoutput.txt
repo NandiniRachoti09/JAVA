@@ -1,0 +1,35 @@
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Please choose an option: 1
+Your current balance is: $500.0
+
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Please choose an option: 2
+Enter the amount to deposit: 66
+Successfully deposited: $66.0
+
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Please choose an option: 3
+Enter the amount to withdraw: 505
+Successfully withdrew: $505.0
+
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Please choose an option: 4
+Thank you for using the ATM. Goodbye!
+
+=== Code Execution Successful ===
