@@ -1,0 +1,31 @@
+java -cp /tmp/VYjE9dwPCC/NumberGuessingGame
+
+Round 1
+Guess the number between 1 and 100:
+Enter your guess: 55
+Too high!
+Enter your guess: 25
+Too low!
+Enter your guess: 50
+Too high!
+Enter your guess: 99
+Too high!
+Enter your guess: 56
+Too high!
+Enter your guess: 44
+Too high!
+Enter your guess: 11
+Too low!
+Enter your guess: 22
+Too low!
+Enter your guess: 88
+Too high!
+Enter your guess: 67
+Too high!
+Sorry, you've used all 10 attempts. The correct number was 32.
+Do you want to play another round? (yes/no): 20
+
+Game over! You played 1 rounds, won 0 rounds, with a total of 0 attempts.
+No rounds won.
+
+=== Code Execution Successful ===
